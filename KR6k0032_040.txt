@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:05.119605
+#+DATE: 2015-08-30 20:42:17.787054
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6k0032_T_040-0407c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 40
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第四十¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -336,7 +335,7 @@
 #+END_VERSE
 」¶
 
-時廣嚴城栗㚲毘子。整四兵眾往至河邊。時¶
+時廣嚴城栗[女*占]毘子。整四兵眾往至河邊。時¶
 未生怨王。禮尊雙足合掌白言。¶
 
 #+BEGIN_VERSE
@@ -353,7 +352,7 @@
 
 #+BEGIN_VERSE
 「　我今欲為未生怨
-　栗㚲毘子情生恨¶
+　栗[女*占]毘子情生恨¶
 　若在廣嚴留舍利
 　王城人眾復傷悲¶
 　宜可半身與王舍
