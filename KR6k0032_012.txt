@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.237645
+#+DATE: 2015-08-30 20:42:18.704954
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0032_T_012-0256b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第十二¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -232,7 +231,7 @@
 無有慈悲。形容醜陋見者恐怖。設近於人受¶
 飢渴苦恒被障礙。傍生趣者無量無邊。作無¶
 義行無福行無法行無善行無淳質行。互相¶
-食噉強者𣣋弱。有諸傍生若生若長若死。皆¶
+食噉強者[夌*欠]弱。有諸傍生若生若長若死。皆¶
 在闇中不淨糞屎垢穢之處。或時暫明所謂¶
 蜂蝶蚊蟻蚤虱蛆蟲之類。自餘復有無量無¶
 邊生長常闇。由彼先世是愚癡人。不聽經法¶

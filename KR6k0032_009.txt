@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.144195
+#+DATE: 2015-08-30 20:42:18.605646
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0032_T_009-0240c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第九¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -371,7 +370,7 @@
 不欲覩見斯物。故施仁等望息憂心。今還令¶
 我起昔追念。六眾默然。是諸苾芻以緣白佛。¶
 佛作是念。由諸苾芻身著瓔珞及諸環玔并¶
-金線帶。有如是過。自今已後制諸苾芻。但是¶
+金線帶。有如是過。自今已後制諸芻苾。但是¶
 嚴飾雜彩之具。悉不應著。若有著者得越法¶
 罪。¶
 

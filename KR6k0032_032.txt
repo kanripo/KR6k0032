@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.846441
+#+DATE: 2015-08-30 20:42:19.325372
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0032_T_032-0363b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 32
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第三十二¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -66,8 +65,7 @@
 緣處同前。時吐羅難陀苾芻尼。於尼寺門前¶
 佇望而立。見有人來即便調弄。時諸俗旅皆¶
 共譏嫌。苾芻白佛。佛作是念。尼住門前有如¶
-是過。故尼不應住在門下。若苾芻尼在門¶
-前立者得越法罪。¶
+是過。故尼不應住在門下。若苾芻尼在門前立者得越法罪。¶
 
 緣處同前如佛所制。諸尼不應立門首者。便¶
 於窓中而望。遙相調弄起過同前。佛言此亦¶

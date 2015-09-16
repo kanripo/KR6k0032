@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.814738
+#+DATE: 2015-08-30 20:42:19.292832
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0032_T_031-0357c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 31
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第三十一¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -478,7 +477,7 @@
 金山七大雪山。無熱池香醉山覓皆不得。情¶
 懷苦惱氣咽不通。又往東方毘提訶西瞿¶
 陀尼北俱盧洲亦皆不見。便往等活黑繩眾¶
-合。叫喚大叫喚熱極熱。阿鼻止頞部陀尼剌¶
+合。叫喚大叫喚熱極熱。阿鼻止頞部陀尼刺¶
 部陀。阿吒吒呵呵婆呼呼婆。青蓮花紅蓮花¶
 大紅蓮花。如是等十六大地獄皆亦不見。又¶
 往妙高山處先登下層。次登第二第三層。直¶

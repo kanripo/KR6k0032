@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.638191
+#+DATE: 2015-08-30 20:42:19.127749
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0032_T_026-0329a> 
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第二十六¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -114,8 +113,7 @@
 告言。仁等當知。七日之後。如來為眾現大神¶
 通。仁等若有所為事者隨意應作。外道聞已¶
 展轉共議。沙門喬答摩。或可逃竄。或覓己¶
-朋。我等諸人欲何所作。共相議曰。沙門必¶
-定求覓己朋。我等亦可覓相知者。于時俱尸¶
+朋。我等諸人欲何所作。共相議曰。沙門必定求覓己朋。我等亦可覓相知者。于時俱尸¶
 那城有一外道名曰善賢。其年衰老一百二¶
 十歲。時此城中有諸壯士。皆於善賢恭敬尊¶
 重深心供養。謂是阿羅漢。時諸六師共籌議¶
