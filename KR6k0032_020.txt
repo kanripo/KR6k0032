@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.454644
+#+DATE: 2015-08-30 20:42:20.805087
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0032_T_020-0297b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第二十¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -112,8 +111,7 @@
 灌浴菩薩。初誕生時於其母前。自然井現香¶
 泉上涌隨意受用。又於空中諸天下散嗢鉢¶
 羅花鉢頭摩花。拘勿頭花奔陀利花。并餘種¶
-種奇妙香末。天妙音樂自然發響。天妙衣¶
-纓從空亂墜。更有眾多奇妙靈瑞。如餘處說。¶
+種奇妙香末。天妙音樂自然發響。天妙衣纓從空亂墜。更有眾多奇妙靈瑞。如餘處說。¶
 
 內攝頌曰。¶
 

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.614248
+#+DATE: 2015-08-30 20:42:20.980123
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0032_T_025-0324c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第二十五¶
 ¶
 三藏法師義淨奉　制譯¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.689116
+#+DATE: 2015-08-30 20:42:21.068424
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0032_T_028-0338c> ¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第二十八¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -156,7 +155,7 @@
 
 #+BEGIN_VERSE
 「　身著無縷不織衣
-　元非㲲線所成就¶
+　元非[疊*毛]線所成就¶
 　一眼宜應指示我
 　何路當往妙花城
 #+END_VERSE
@@ -519,7 +518,7 @@
 與女書由此鸚鵡。燒我宮室必須牢縛急送¶
 將來。女即如言還送鸚鵡。王見大怒令燖毛¶
 羽煮以沸湯。屠者去毛棄之簷外。報言。汝去¶
-飛鵄下見撮以𣣋虛到一神祠。鵄便欲食。遂¶
+飛鵄下見撮以[夌*欠]虛到一神祠。鵄便欲食。遂¶
 告鵄曰。兄食我身肉纔一日。如其見放。於日
 <pb:KR6k0032_T_028-0343b>¶
 日中。上好肉食常令飽滿。鵄曰。誰當信汝。答¶

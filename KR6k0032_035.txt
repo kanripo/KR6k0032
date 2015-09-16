@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.951628
+#+DATE: 2015-08-30 20:42:21.284452
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0032_T_035-0379c> 
 #+PROPERTY: JUAN 35
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第三十五¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -77,7 +76,7 @@
 摩其樹生者。無識寡聞心懷高慢。不生畏敬¶
 輕觸尊顏。唯願慈悲見容其過。佛告婆羅¶
 門我已容恕。時婆羅門復白佛言。喬答摩我¶
-乘車時。或控馬轡或舉鞭大𠿒。當爾之時願¶
+乘車時。或控馬轡或舉鞭大[口*歇]。當爾之時願¶
 表知。我婆羅門妙花頂禮佛足。并問少病少¶
 惱起居輕利氣力安不。又白佛言。喬答摩。若¶
 復見我涉路而行。或脫革屣或時避道或時

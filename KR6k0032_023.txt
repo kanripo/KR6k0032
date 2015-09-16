@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:04.543038
+#+DATE: 2015-08-30 20:42:20.909050
 #+TITLE: 根本說一切有部毘奈耶雜事
 #+PROPERTY: CBETA_ID T24n1451
 #+PROPERTY: ID KR6k0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1451
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0032_T_023-0312b> 
 #+PROPERTY: JUAN 23
 ¶
-
- 《根本說一切有部毘奈耶雜事》¶
+《根本說一切有部毘奈耶雜事》¶
 卷第二十三¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -219,8 +218,7 @@
 其走去。若餘方便獲得者善。若不得者當受¶
 極刑。聞已驚惶思求方便。時是南方有機¶
 巧師新來至此。增養問曰汝。有智力。能作如¶
-是如是機關物不。答言。我且學作望有成¶
-功。是時增養遂藏王家葦山大象。遍告城¶
+是如是機關物不。答言。我且學作望有成功。是時增養遂藏王家葦山大象。遍告城¶
 邑葦山大象走出外處莫知所在。遠近悉皆¶
 聞斯嚮已。報工人曰。應以本作葦山象形。¶
 彼即隨言作機關象。於此象中安五十人。象¶
